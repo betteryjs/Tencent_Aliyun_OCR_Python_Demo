@@ -1,0 +1,4 @@
+aliyun-python-sdk-core
+oss2
+aliyun-python-sdk-facebody==1.2.22
+
